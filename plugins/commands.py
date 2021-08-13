@@ -196,7 +196,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             InlineKeyboardButton('Update Channel', url='https://t.me/MRGBOTREPAIR'),
-            InlineKeyboardButton('Video', url=f'{TUTORIAL}')
+            InlineKeyboardButton('editor', url=f'https://t.me/abhiabhisk')
         ]
         ]
     await message.reply(text=f"<b>Developer : <a href='https://t.me/YOUTUBERYT54355'>MIKEY
